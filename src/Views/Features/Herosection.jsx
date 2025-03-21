@@ -10,7 +10,7 @@ const Herosection = () => {
         <div className="carousel-image" style={{ backgroundImage: `url('https://png.pngtree.com/thumb_back/fh260/background/20230610/pngtree-sunrise-over-a-lake-with-trees-in-the-background-image_2904373.jpg')`,backgroundRepeat:"no-repeat"}} >
           <Container className="text-center text-white d-flex flex-column justify-content-center align-items-center h-100">
             <p className="small-text">Explore India with Our Package</p>
-            <h1 className=" bold-text fw-bold">EXPLORE INDIA FESTIVAL AND CULTURE </h1>
+            <h1 className=" bold-text fw-bold">EXPLORE INDIA FESTIVAL &&& CULTURE </h1>
             <Button variant="danger" className="mt-3 px-4 py-2">Book Now</Button>
           </Container>
         </div>
